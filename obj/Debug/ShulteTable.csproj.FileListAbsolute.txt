@@ -1,0 +1,21 @@
+C:\Users\M8\Desktop\Галкин Олег\ShulteTable\bin\Debug\ShulteTable.exe.config
+C:\Users\M8\Desktop\Галкин Олег\ShulteTable\bin\Debug\ShulteTable.exe
+C:\Users\M8\Desktop\Галкин Олег\ShulteTable\bin\Debug\ShulteTable.pdb
+C:\Users\M8\Desktop\Галкин Олег\ShulteTable\obj\Debug\ShulteTable.csproj.AssemblyReference.cache
+C:\Users\M8\Desktop\Галкин Олег\ShulteTable\obj\Debug\ShulteTable.Form1.resources
+C:\Users\M8\Desktop\Галкин Олег\ShulteTable\obj\Debug\ShulteTable.Properties.Resources.resources
+C:\Users\M8\Desktop\Галкин Олег\ShulteTable\obj\Debug\ShulteTable.csproj.GenerateResource.cache
+C:\Users\M8\Desktop\Галкин Олег\ShulteTable\obj\Debug\ShulteTable.csproj.CoreCompileInputs.cache
+C:\Users\M8\Desktop\Галкин Олег\ShulteTable\obj\Debug\ShulteTable.exe
+C:\Users\M8\Desktop\Галкин Олег\ShulteTable\obj\Debug\ShulteTable.pdb
+E:\c#\ShulteTable\bin\Debug\ShulteTable.exe.config
+E:\c#\ShulteTable\bin\Debug\ShulteTable.exe
+E:\c#\ShulteTable\bin\Debug\ShulteTable.pdb
+E:\c#\ShulteTable\obj\Debug\ShulteTable.csproj.AssemblyReference.cache
+E:\c#\ShulteTable\obj\Debug\ShulteTable.csproj.SuggestedBindingRedirects.cache
+E:\c#\ShulteTable\obj\Debug\ShulteTable.Form1.resources
+E:\c#\ShulteTable\obj\Debug\ShulteTable.Properties.Resources.resources
+E:\c#\ShulteTable\obj\Debug\ShulteTable.csproj.GenerateResource.cache
+E:\c#\ShulteTable\obj\Debug\ShulteTable.csproj.CoreCompileInputs.cache
+E:\c#\ShulteTable\obj\Debug\ShulteTable.exe
+E:\c#\ShulteTable\obj\Debug\ShulteTable.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShulteTable", "ShulteTable.csproj", "{9B7EBB49-A2DA-48DF-B447-347EF4293529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B7EBB49-A2DA-48DF-B447-347EF4293529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7EBB49-A2DA-48DF-B447-347EF4293529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7EBB49-A2DA-48DF-B447-347EF4293529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7EBB49-A2DA-48DF-B447-347EF4293529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A40F5E0-F5CB-4165-A2E6-B9D8A72689B5}
+	EndGlobalSection
+EndGlobal
